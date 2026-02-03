@@ -1,6 +1,6 @@
 # CIVE-202
 This repo is used to store all files, labs, and projects for CIVE 202 Spring 2026.  
-For grading click on the project folder you wish to grade. I will be organised as per the rubric and have it's own README.
+For grading click on the project folder you wish to grade. It will be organised as per the rubric and have it's own README.
 
 Current Files:
   -Documents  
